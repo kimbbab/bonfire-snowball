@@ -1,0 +1,16 @@
+{
+  "name": "bonfire-duel",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Multiplayer 3D beach shooter: players shoot each other around a night bonfire.",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "ws": "8.18.0"
+  }
+}
